@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my projects, skills, and a little about me.
 
 ## 🚀 Live Demo
-[View Portfolio](https://github.com/Aasthaa5324/my_portfolio) 
+[View Portfolio](https://stellular-blini-b2a1c9.netlify.app/)
 
 ## 📌 Features
 - Modern, responsive design
